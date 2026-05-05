@@ -1,2 +1,2 @@
 # batip-legal
-Legal pages for Batip apps
+Legal pages for BaTip apps
