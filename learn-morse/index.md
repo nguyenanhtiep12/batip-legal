@@ -2,7 +2,7 @@
 
 Last updated: May 5, 2026
 
-Learn Morse is a Morse code learning and translation app developed by Batip.
+Learn Morse is a Morse code learning and translation app developed by BaTip.
 This Privacy Policy explains what information the app handles and how it is
 used.
 
@@ -33,7 +33,7 @@ Learn Morse may store the following information locally on your device:
 - Recent Morse patterns
 - Practice progress, streaks, and answer history
 
-This local data is used only to provide app features. It is not sent to Batip
+This local data is used only to provide app features. It is not sent to BaTip
 servers.
 
 ## Clipboard
