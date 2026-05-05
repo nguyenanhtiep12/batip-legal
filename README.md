@@ -1,2 +1,3 @@
-# batip-legal
-Legal pages for BaTip apps
+Legal pages for BaTip apps.
+
+- [Learn Morse Privacy Policy](/learn-morse/)
