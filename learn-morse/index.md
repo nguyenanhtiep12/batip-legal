@@ -2,8 +2,7 @@
 
 Last updated: May 13, 2026
 
-Hi Morse, formerly Learn Morse, is a Morse code learning and translation app
-developed by BaTip.
+Hi Morse is a Morse code learning and translation app developed by BaTip.
 This Privacy Policy explains what information the app handles and how it is
 used.
 
