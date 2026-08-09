@@ -15,7 +15,7 @@ your device.
 Hi Morse does not include advertising SDKs, in-app purchases, subscriptions,
 or tracking for advertising. On Android and iOS, you may separately choose to
 share limited usage analytics. Analytics is off by default and starts only
-after you select Agree to share.
+after you select Share data.
 
 ## Information We Do Not Collect
 
