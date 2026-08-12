@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: August 9, 2026
+Last updated: August 12, 2026
 
 Hi Morse is a Morse code learning and translation app developed by BaTip.
 This Privacy Policy explains what information the app handles and how it is
@@ -12,10 +12,10 @@ Hi Morse does not require an account. Morse text, practice input, keyboard
 settings, progress, recent patterns, and app preferences are stored locally on
 your device.
 
-Hi Morse does not include advertising SDKs, in-app purchases, subscriptions,
-or tracking for advertising. On Android and iOS, you may separately choose to
-share limited usage analytics. Analytics is off by default and starts only
-after you select Share data.
+On Android and iOS, limited usage analytics is enabled by default to help
+understand how the app is used and improve it. You can turn it off or on at any
+time in More > Privacy > Usage analytics without affecting app features or
+learning progress.
 
 ## Information We Do Not Collect
 
@@ -37,25 +37,28 @@ Hi Morse may store the following information locally on your device:
 - Audio and Morse keyboard preferences
 - Recent Morse patterns
 - Practice progress, streaks, and answer history
-- Your Analytics choice and limited local prompt timing state
+- Your Usage analytics preference and limited feedback-invitation timing state
 
 This local data is used only to provide app features. It is not sent to BaTip
 servers.
 
-## Optional Usage Analytics
+## Usage Analytics
 
-On Android and iOS, Hi Morse offers optional Firebase Analytics. Analytics is
-disabled by default. The app does not ask during the first launch. After you
-successfully use a learning or Morse feature, it may offer the choice on a
-later launch. Choosing Later keeps Analytics off. The app may ask only one
-final time after at least seven days and another successful feature use. You
-can make the same choice later in Privacy and analytics settings.
+On Android and iOS, Hi Morse uses Firebase Analytics. Usage analytics is
+enabled by default. The app does not show a separate data-sharing confirmation
+prompt. You can turn it off or on at any time in More > Privacy > Usage
+analytics.
 
-If you allow Analytics, Hi Morse may send limited events about:
+While Usage analytics is enabled, Hi Morse may send limited events about:
 
-- Which main app screen or learning area is used
+- Which app screen, sheet, dialog, or learning area is viewed
+- Which fixed interface component is shown or selected and which fixed action
+  is used, such as opening a setting, starting output, copying, or moving to
+  the next exercise
 - Practice and Course sessions starting or completing, using counts, broad
   accuracy ranges, broad duration ranges, skill, level, and source categories
+- Practice-answer outcomes using only fixed categories such as skill, level,
+  input method, correct or wrong result, code set, and a broad position bucket
 - Whether sound, flashlight, or vibration output is started
 - A small allowlist of commands and preferences, represented by fixed
   categories rather than content
@@ -66,15 +69,16 @@ selected app language, and an estimated country or region derived by Google
 from network information. Granular GA4 location and device collection is
 disabled, so Hi Morse does not use city-level location, device brand/model,
 detailed operating-system version, or screen-resolution data for Analytics.
-The app does not request precise-location permission for Analytics. Hi Morse
-does not set an account or custom user ID and does not use Analytics for
-advertising or personalized ads. It does not request Apple's IDFA, Android's
-Advertising ID, or App Tracking Transparency permission for Analytics.
+The app does not request precise-location permission for Analytics and does not
+set an account or custom user ID. Usage analytics is used to understand and
+improve Hi Morse.
 
-You can turn Analytics off at any time. Turning it off stops future Analytics
-collection and resets Analytics data stored locally by Firebase on that device.
-It does not delete learning progress or other app settings. Data already sent
-may remain in Google Analytics for the retention period described below.
+Turning Usage analytics off stops future Analytics collection and resets
+Analytics data stored locally by Firebase on that device. It does not delete
+learning progress or other app settings, and it does not delete data already
+transmitted to and processed by Google. Turning it on again resumes collection
+only for future activity; Hi Morse does not backfill activity from the time it
+was off. Hi Morse does not send an Analytics event recording your on/off choice.
 
 ## Clipboard
 
@@ -105,9 +109,9 @@ privacy and data handling here:
 - https://firebase.google.com/docs/android/play-data-disclosure
 - https://policies.google.com/privacy
 
-When you have allowed optional Analytics, Analytics events may also be attached
-to Crashlytics reports as diagnostic breadcrumbs. They remain limited to the
-fixed categories described above and do not include Morse or answer content.
+When Usage analytics is enabled, Analytics events may also be attached to
+Crashlytics reports as diagnostic breadcrumbs. They remain limited to the fixed
+categories described above and do not include Morse or answer content.
 
 ## Feedback Email
 
@@ -124,8 +128,8 @@ Emails you send are used only to respond to your request and improve the app.
 Hi Morse may use the following third-party services:
 
 - Firebase Crashlytics for crash reporting and diagnostics
-- Firebase Analytics for optional, consent-based app usage measurement on
-  Android and iOS
+- Firebase Analytics for app usage measurement on Android and iOS, with an
+  in-app opt-out
 - Google Play or Apple App Store services for app rating and store listing
   actions
 - Your selected email app or browser when you choose to contact support
@@ -148,10 +152,10 @@ Crash reports are retained by Firebase Crashlytics according to Firebase
 retention practices. Feedback emails are retained only as long as needed to
 respond to support requests and improve the app.
 
-Optional Firebase Analytics user-level and event data is configured for a
-14-month retention period. New activity does not reset that retention period.
-Turning Analytics off prevents future collection but does not immediately
-delete data already transmitted and retained by Google Analytics.
+Firebase Analytics user-level and event data is configured for a 14-month
+retention period. New activity does not reset that retention period. Turning
+Usage analytics off prevents future collection but does not immediately delete
+data already transmitted and retained by Google Analytics.
 
 ## Security
 
