@@ -11,9 +11,9 @@ Hi Battery là ứng dụng của BaTip để xem thông tin pin và thiết b�
 
 Ứng dụng sử dụng mức pin, trạng thái sạc và thông tin thiết bị mà hệ điều hành cung cấp để hiển thị chỉ số và ghi nhận các lần sạc khi app đang mở. Khả năng đọc từng thông số phụ thuộc thiết bị và hệ điều hành. Thông tin mạng giới hạn ở loại kết nối và bộ đếm lưu lượng trên thiết bị.
 
-Trên Android, app có thể đọc các thông số điện và nhiệt độ pin nếu máy cung cấp. Trên iOS, app dùng thay đổi mức pin để theo dõi tốc độ sạc và hiển thị trạng thái nhiệt do hệ thống báo. Nếu bạn nhập dung lượng pin tham chiếu, app có thể ước tính công suất nạp vào pin và ghi rõ đó là ước tính.
+Trên Android, app có thể đọc các thông số điện và nhiệt độ pin nếu máy cung cấp. Trên iOS, app dùng thay đổi mức pin để theo dõi tốc độ sạc và hiển thị trạng thái nhiệt do hệ thống báo. Khi có năng lượng pin tham chiếu theo mẫu máy hoặc do bạn nhập, app có thể ước tính công suất vào pin và gắn nhãn ước tính. Bạn có thể nhập Dung lượng tối đa để điều chỉnh giá trị tham chiếu.
 
-Nếu bật Live Activity trên iPhone tương thích, iOS hiển thị mẫu sạc cuối mà app đã ghi được. Hi Battery không thu thập số liệu khi app vào nền hoặc khóa màn hình. Live Activity không dùng thông báo đẩy từ máy chủ.
+Lịch sử tự động và cảnh báo chỉ hoạt động khi app đang mở. Khi bạn chủ động bắt đầu một bài kiểm tra tốc độ sạc, app có thể tiếp tục ghi mẫu pin lúc khóa màn hình hoặc chuyển ứng dụng trong thời gian hệ điều hành cho phép, đến hạn của bài kiểm tra. Mẫu đã ghi được lưu trên thiết bị. Live Activity trên iPhone tương thích hiển thị thông tin bài đo và không dùng thông báo đẩy từ máy chủ.
 
 ## Lưu trữ, thu thập và chia sẻ
 
